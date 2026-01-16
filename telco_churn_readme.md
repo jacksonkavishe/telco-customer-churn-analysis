@@ -144,35 +144,6 @@ Based on the analysis findings, the following retention strategies are recommend
 - **Microsoft Excel**: Data cleaning, analysis, visualization, and dashboard development
 - **Techniques Used**: PivotTables, statistical formulas (QUARTILE.EXC), conditional formatting, data validation, chart design
 
-## Files in Repository
-
-```
-├── data/
-│   └── telco_customer_churn.xlsx       # Raw dataset
-├── analysis/
-│   └── churn_analysis_dashboard.xlsx   # Final analysis workbook with dashboard
-├── visuals/
-│   └── churn_dashboard.png             # Dashboard screenshot
-└── README.md                            # Project documentation
-```
-
-## How to Use
-
-1. Download the `churn_analysis_dashboard.xlsx` file from the `/analysis` folder
-2. Open in Microsoft Excel (2016 or later recommended)
-3. Navigate to the "Dashboard" sheet to view the executive summary
-4. Explore individual analysis sheets for detailed breakdowns by segment
-5. PivotTables and formulas are preserved for further exploration
-
-## Future Improvements
-
-With additional time and resources, this analysis could be extended to include:
-- Predictive churn modeling using logistic regression or machine learning
-- Service feature impact analysis (Tech Support, Online Security, etc.)
-- Customer lifetime value (CLV) calculations to prioritize high-value retention
-- Time-series analysis to identify seasonal churn patterns
-- Integration with CRM systems for real-time risk scoring
-
 ## Author
 
 [Jackson Kavishe]  

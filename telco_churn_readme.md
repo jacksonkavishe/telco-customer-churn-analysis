@@ -2,6 +2,8 @@
 
 Excel-based telecom churn analysis highlighting high-risk customer segments through KPI tracking, segmentation, and a contract–tenure risk heatmap
 
+## Dashboard Preview
+
 ![Dashboard Preview](https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/churn_dashboard.png?raw=true)
 
 ## Executive Summary

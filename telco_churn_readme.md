@@ -24,7 +24,7 @@ The main objectives of this analysis are to:
 ## Dataset used
 
 - <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/churn_raw_data.csv">Raw Data<a/>
-- <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/Churn%20Rate%20Analysis.xlsx">Clean & Analyzed Data<a/>
+- <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/Churn%20Rate%20Analysis.xlsx">Clean and Analyzed Data<a/>
 
 
 
@@ -37,7 +37,7 @@ Key fields include:
 - Service features (Tech Support, Online Security, etc.)
 - Churn status  
 
-## Data Preparation & Cleaning
+## Data Preparation and Cleaning
 
 The following data preparation steps were performed in Excel:
 
@@ -112,7 +112,7 @@ A two-dimensional risk heatmap was created to visualize the combined impact of c
 
 This visualization enables prioritization of retention efforts based on risk concentration.
 
-## Dashboard & Visualizations
+## Dashboard and Visualizations
 
 An executive dashboard was developed in Excel featuring:
 - High-level KPI cards (Total Customers, Churned Customers, Churn Rate, Retention Rate)
@@ -123,7 +123,7 @@ An executive dashboard was developed in Excel featuring:
 
 The dashboard provides an at-a-glance view of churn performance and enables quick identification of priority segments.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis findings, the following retention strategies are recommended:
 
@@ -132,14 +132,14 @@ Based on the analysis findings, the following retention strategies are recommend
 3. **Pricing Strategy Review**: Evaluate value perception among medium and high-charge customers, as they exhibit elevated churn despite higher revenue contribution
 4. **Risk-Based Monitoring**: Prioritize retention resources toward the highest-risk segment (month-to-month, 0–1 year tenure) identified in the heatmap
 
-## ⚠️ Assumptions & Caveats
+## Assumptions and Caveats
 
 - Analysis assumes historical churn behavior is indicative of future risk patterns
 - Some tenure–contract segments contain small customer counts, which may affect stability of churn rate estimates
 - Results are descriptive and observational; causal relationships require controlled experimentation
 - External factors (competitor actions, market conditions) are not reflected in this dataset
 
-## Tools & Technologies
+## Tools and Technologies
 
 - **Microsoft Excel**: Data cleaning, analysis, visualization, and dashboard development
 - **Techniques Used**: PivotTables, statistical formulas (QUARTILE.EXC), conditional formatting, data validation, chart design

@@ -174,12 +174,9 @@ With additional time and resources, this analysis could be extended to include:
 
 ## Author
 
-[Your Name]  
-[LinkedIn Profile] | [Email] | [Portfolio Website]
+[Jackson Kavishe]  
+[LinkedIn Profile](https://www.linkedin.com/in/jackson-kavishe-b225572ba) | [Email](jacksonkavishe@outlook.com)
 
-## Acknowledgments
-
-Dataset source: [Add source if applicable, e.g., Kaggle, synthetic data, etc.]
 
 ---
 

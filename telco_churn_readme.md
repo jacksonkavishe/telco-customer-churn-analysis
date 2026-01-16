@@ -21,9 +21,12 @@ The main objectives of this analysis are to:
 - Identify key drivers of churn across customer segments  
 - Highlight high-risk customer groups for targeted retention actions  
 
-## Dataset
+## Dataset used
 
-The analysis is based on a customer-level telecom dataset containing **7,043 customer records** with demographic, service usage, contract, tenure, and billing information.
+- <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/churn_raw_data.csv">Raw Data<a/>
+
+
+
 
 Key fields include:
 - Customer ID  

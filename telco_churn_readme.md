@@ -24,6 +24,7 @@ The main objectives of this analysis are to:
 ## Dataset used
 
 - <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/churn_raw_data.csv">Raw Data<a/>
+- <a href="https://github.com/jacksonkavishe/telco-customer-churn-analysis/blob/main/Churn%20Rate%20Analysis.xlsx">Clean & Analyzed Data<a/>
 
 
 
